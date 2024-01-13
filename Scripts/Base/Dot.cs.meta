@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2cdeebb89471d469090d9f248fe9bd78
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - endGameManager: {instanceID: 0}
+  - otherDot: {instanceID: 0}
+  - adjacentMarker: {fileID: 1746358072909436, guid: 2846699cebe8b4e93b485c0962edd52a,
+      type: 3}
+  - rowArrow: {fileID: 1775534601444322, guid: a10db065bdfa54e23bf91be31858fa5d, type: 3}
+  - columnArrow: {fileID: 1629322208613970, guid: 36f4acc9beec24301a6fe1acfc05a567,
+      type: 3}
+  - colorBomb: {fileID: 1942758963516802, guid: 127ce63b5911c45abae4b1dde87e05da,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
